@@ -1,6 +1,4 @@
 firmware for artillery hornet 
-GitHub contributors GitHub Release Date Build Status
-
 
 Wiki
 How to install the firmware
