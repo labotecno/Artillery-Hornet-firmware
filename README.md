@@ -1,4 +1,4 @@
-firmware for artillery hornet 
+Firmware for artillery hornet 
 
 Wiki
 How to install the firmware
