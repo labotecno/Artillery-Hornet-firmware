@@ -2,6 +2,7 @@ Firmware for artillery hornet
 
 Wiki
 How to install the firmware
+https://github.com/labotecno/Artillery-Hornet-firmware/blob/main/tutorial%20flash%20ruby%20artillery%20.pdf
 
 Credits
 This is a Marlin based firmware and is maintained by @labotecno
